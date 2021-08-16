@@ -17,4 +17,4 @@ def X0():
             continue
     print('No winner')
     
-print(XO())
+print(X0())
